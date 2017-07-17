@@ -1,3 +1,3 @@
 ## Notes from writing
 
-Kjellstrom and Corvalan \cite{kjellstrom1995framework} wrote about 
+Kjellstrom and Corvalan \cite{kjellstrom1995framework} wrote about a 
