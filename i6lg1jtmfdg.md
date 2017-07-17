@@ -1,3 +1,3 @@
 ## Notes from writing
 
-Kjellstrom and Corvala
+Kjellstrom and Corvalan 
